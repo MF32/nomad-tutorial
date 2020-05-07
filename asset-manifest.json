@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mountainfield32/nomadreact/static/css/main.fd6570fa.chunk.css",
+    "main.js": "/mountainfield32/nomadreact/static/js/main.25edd970.chunk.js",
+    "main.js.map": "/mountainfield32/nomadreact/static/js/main.25edd970.chunk.js.map",
+    "runtime-main.js": "/mountainfield32/nomadreact/static/js/runtime-main.887b97ff.js",
+    "runtime-main.js.map": "/mountainfield32/nomadreact/static/js/runtime-main.887b97ff.js.map",
+    "static/js/2.a84d307e.chunk.js": "/mountainfield32/nomadreact/static/js/2.a84d307e.chunk.js",
+    "static/js/2.a84d307e.chunk.js.map": "/mountainfield32/nomadreact/static/js/2.a84d307e.chunk.js.map",
+    "index.html": "/mountainfield32/nomadreact/index.html",
+    "precache-manifest.c3ca0b44ed35e1d4e4692dc860f765b4.js": "/mountainfield32/nomadreact/precache-manifest.c3ca0b44ed35e1d4e4692dc860f765b4.js",
+    "service-worker.js": "/mountainfield32/nomadreact/service-worker.js",
+    "static/css/main.fd6570fa.chunk.css.map": "/mountainfield32/nomadreact/static/css/main.fd6570fa.chunk.css.map",
+    "static/js/2.a84d307e.chunk.js.LICENSE.txt": "/mountainfield32/nomadreact/static/js/2.a84d307e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.887b97ff.js",
+    "static/js/2.a84d307e.chunk.js",
+    "static/css/main.fd6570fa.chunk.css",
+    "static/js/main.25edd970.chunk.js"
+  ]
+}
